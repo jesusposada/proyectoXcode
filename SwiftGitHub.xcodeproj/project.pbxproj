@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		01AA12C51DC2783100B06145 /* Modulo04_MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Modulo04_MiniReto.playground; sourceTree = "<group>"; };
 		01CE8B1C1DAFDE4200BD704A /* Modulo02_MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Modulo02_MiniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -14,6 +15,7 @@
 		01CC6D701DAFC1C50081D8C0 = {
 			isa = PBXGroup;
 			children = (
+				01AA12C51DC2783100B06145 /* Modulo04_MiniReto.playground */,
 				01CE8B1C1DAFDE4200BD704A /* Modulo02_MiniReto.playground */,
 			);
 			sourceTree = "<group>";
